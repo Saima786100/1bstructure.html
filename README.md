@@ -1,2 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First HTML Page</title>
+</head>
+<body>
+  <h1>Hello! I am Shaikh Saima</h1>
+  <p>This is my first HTML project.</p>
+</body>
+</html>
 
